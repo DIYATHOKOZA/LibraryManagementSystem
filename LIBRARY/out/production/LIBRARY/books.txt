@@ -1,0 +1,6 @@
+to kill a mockingbird|thokoza||history|true
+happy place|thoko||love |true
+happy place|thoko|||true
+happy place|thokoza||love|true
+HAPPY PLACE|THOKOZA||LOVE|true
+HAPPY PLACE|THOKOZA||LOVE|true
